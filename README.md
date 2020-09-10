@@ -1,3 +1,3 @@
 # MyFirstRepo
 
-[png](./png/README.md)
+[png](rpi.md)

@@ -1,1 +1,3 @@
 # MyFirstRepo
+
+Myname is Hyunseo

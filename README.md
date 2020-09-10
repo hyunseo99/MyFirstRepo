@@ -1,3 +1,3 @@
 # MyFirstRepo
 
-Myname is Hyunseo
+My name is Hyunseo
